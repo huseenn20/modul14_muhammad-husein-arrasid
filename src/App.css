@@ -28,6 +28,36 @@
   color: #61dafb;
 }
 
+.title{
+  text-align: center;
+  background-color: #000000;
+  color: white;
+  padding: 10px 50px ;
+}
+
+.footer{
+  margin-top: 5%;
+  background-color: black;
+  padding: 10px;
+  color: #fff;
+  text-align: center;
+}
+.foot{
+  margin: 2px;
+}
+
+.navbar {
+  text-align: center;
+  padding: 10px;
+  background-color: white;
+}
+
+.navbar a {
+  padding: 10px;
+  text-decoration: none;
+  color: black;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
